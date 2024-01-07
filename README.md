@@ -23,7 +23,7 @@ composer install phpfastcache/dynamodb-extension
 ```
 
 #### ⚠️ This extension requires:
-1️ The composer `aws/aws-sdk-php` library `3.0` at least.
+1️ The composer `aws/aws-sdk-php` library `3.20` at least.
 
 ## Events
 This driver is currently emitting [customs events](https://github.com/PHPSocialNetwork/phpfastcache/blob/master/docs/EVENTS.md).
